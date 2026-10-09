@@ -413,5 +413,14 @@
       "Nice work renaming the branch locally and on the remote!"
     ],
     "status": "Completed"
+  },
+  {
+    "exercise_name": "branch-delete",
+    "started_at": 1791531924.41996,
+    "completed_at": 1791531927.896874,
+    "comments": [
+      "Branch 'optimization-approach-1' still exists! Remember to delete it"
+    ],
+    "status": "Incomplete"
   }
 ]
