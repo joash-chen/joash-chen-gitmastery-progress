@@ -359,5 +359,14 @@
       "Contents of 'features.md' is not valid at commit with message 'Add the delete feature'! Try again!"
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "mix-messy-graph",
+    "started_at": 1791531122.553798,
+    "completed_at": 1791531125.345447,
+    "comments": [
+      "Contents of 'features.md' is not valid at commit with message 'Add the delete feature'! Try again!"
+    ],
+    "status": "Incomplete"
   }
 ]
